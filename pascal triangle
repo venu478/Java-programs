@@ -1,4 +1,4 @@
-class pascalTrianglePattern   
+class PascalTrianglePattern   
 {   
 public static void main(String args[])   
 {   
