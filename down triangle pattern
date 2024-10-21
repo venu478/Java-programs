@@ -1,4 +1,4 @@
-class downTrianglePattern   
+class DownTrianglePattern   
 {   
 public static void main(String args[])   
 {   
